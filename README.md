@@ -1,4 +1,4 @@
-# Route-in-OpenShift
+
 # Route in OpenShift
 ## create certificates with route hostname
 ```bash
